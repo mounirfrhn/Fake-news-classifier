@@ -70,11 +70,10 @@ Ces visualisations permettent de mieux comprendre les motifs lexicaux présents 
 
 | Classe     | Précision | Rappel | F1-score |
 |------------|-----------|--------|----------|
-| 0 (True)   | 0.80      | 0.89   | 0.84     |
-| 1 (Fake)   | 0.89      | 0.79   | 0.84     |
+| 0 (True)   | 0.90      | 0.87   | 0.88     |
+| 1 (Fake)   | 0.88      | 0.91   | 0.90     |
 
-- F1-score global : 0.84
-- Courbes de perte visibles dans le notebook
+- F1-score global : 0.89
 - Matrice de confusion et `classification_report` affichés sur le test set
 
 ---
